@@ -16,7 +16,7 @@ Easily create high quality GIFs from video files!
 **To install:**
 
 ```
-ffmpeg
+sudo apt install ffmpeg
 ```
 
 ## 2. Adding vid2gif to `.bashrc` or `.zshrc`
