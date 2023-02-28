@@ -21,7 +21,7 @@ sudo apt install ffmpeg
 
 ## 2. Adding vid2gif to `.bashrc` or `.zshrc`
 
-1. Open the file;
+1. Open the `.bashrc` or the `.zshrc` file (depending on which one you use);
 2. Paste the following code at the end:
 
 ```
