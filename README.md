@@ -36,8 +36,8 @@ It's simple, just open the terminal and type:
 vid2gif INPUT_VIDEO.mp4 GIF_TO_BE_OUTPUTED.gif
 ```
 
-**First parameter:** the name of the existing video file.  
-**Second parameter:** the name of the gif that will be outputed.
+**First argument:** the name of the existing video file.  
+**Second argument:** the name of the gif that will be outputed.
 
 ## 4. Credits
 
